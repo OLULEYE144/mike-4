@@ -1,0 +1,42 @@
+body{
+  background-color:white
+}
+header{
+text-align:center;  
+}
+button{
+  background-color:purple;
+}
+nav{
+  backgound-color:orange;
+}
+
+
+
+button{
+  background-color:black;
+}
+button{
+  color:white;
+}
+nav{
+  text-align:center;
+}
+header{
+  background-color:red;
+}
+h2{
+  text-align:center;
+}
+ul{
+  text-align:center;
+}
+button{
+  justify-content:center;
+  background-color:red;
+  border:2px solid black;
+  color:black;
+}
+main{
+  background-color:orange;
+}
